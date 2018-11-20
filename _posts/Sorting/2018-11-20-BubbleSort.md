@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CD Demo is Cool
+title: 冒泡排序算法
 tags:
   - CD Demo
 categories:

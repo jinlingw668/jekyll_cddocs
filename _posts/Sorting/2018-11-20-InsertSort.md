@@ -1,9 +1,9 @@
 ---
 layout: post
-title: CD Demo is Cool
+title: 插入排序算法
 tags:
   - CD Demo
 categories:
   - blog
 ---
-###插入排序算法
+### 插入排序算法

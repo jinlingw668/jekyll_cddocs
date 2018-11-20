@@ -1,9 +1,9 @@
 ---
 layout: post
-title: CD Demo is Cool
+title: 选择排序算法
 tags:
   - CD Demo
 categories:
   - blog
 ---
-###xuanze排序算法
+### 选择排序算法

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: CD Demo is Cool
+title: 快速排序算法
 tags:
   - CD Demo
 categories:
   - blog
 ---
-###快速排序算法
+### 快速排序算法

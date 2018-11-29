@@ -1,10 +1,10 @@
 ---
-layout: post
-title: 冒泡排序算法
+layout: default
 tags:
   - CD Demo
 categories:
-  - blog
+  - Sorting
+permalink: /Sorting/BubbleSort
 ---
 ### 冒泡排序算法
 1. 使用hasSwap标识一趟循环内是否有过交换 

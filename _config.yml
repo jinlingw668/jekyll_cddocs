@@ -1,2 +1,10 @@
-baseurl: /jekyll_cddocs
-theme: jekyll-theme-slate
+title: CD Demo 文档
+description: ---- CD Demo 算法描述及演示说明
+show_title: true
+show_downloads: true
+google_analytics:
+
+#baseurl: /jekyll_cddocs
+#theme: jekyll-theme-slate
+permalink: /:categories/:title/
+theme: jekyll-theme-leap-day

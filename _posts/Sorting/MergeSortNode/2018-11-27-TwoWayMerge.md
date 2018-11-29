@@ -4,6 +4,6 @@ tags:
   - CD Demo
 categories:
   - Sorting/HeapSortNode
-permalink: /Sorting/MergeSortNode/MergeSort
+permalink: /Sorting/MergeSortNode/TwoWayMerge
 ---
-### 归并排序算法
+### 二路归并算法

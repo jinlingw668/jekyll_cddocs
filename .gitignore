@@ -2,4 +2,10 @@ _site
 .sass-cache
 Gemfile.lock
 *.gem
+
+index1.html
 /_sass/jekyll-theme-leap-day-备份.scss
+/_layouts/default--.html
+/_layouts/defaultold.html
+/_posts/Classical/images
+/_posts/Classical/image-example.md

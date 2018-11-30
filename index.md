@@ -1,8 +1,6 @@
 ---
 layout: default
----
-                  CD Demo	
-				  
+---		  
 ### 经典算法
 - [洗牌算法](./Classical/Shuffle.html)
 - [EuclidGCD算法](./Classical/EuclidGCD.html)

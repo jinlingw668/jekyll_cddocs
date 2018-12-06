@@ -4,7 +4,6 @@ tags:
   - CD Demo
 categories:
   - Classical
-permalink: /Classical/EuclidGCD
 ---
 ### Euclid GCD算法
 
@@ -15,3 +14,15 @@ permalink: /Classical/EuclidGCD
 - gcd(a,0) = a； 
 
 - gcd(a,b) = gcd(b,a mod b)； 
+
+![这是第1张图片](https://raw.githubusercontent.com/jinlingw668/jekyll_cddocs/gh-pages/_posts/images/LSEditDist01.png)
+
+![这是第2张图片](https://raw.githubusercontent.com/jinlingw668/jekyll_cddocs/gh-pages/_posts/Classical/images/LSEditDist-Input1.png)
+
+![这是第1张图片](../images/LSEditDist01.png)
+
+![这是第2张图片](/images/LSEditDist01.png)
+
+![这是第1张图片](https://jinlingw668.github.io/jekyll_cddocs/_posts/images/LSEditDist01.png)
+
+![这是第2张图片](https://jinlingw668.github.io/jekyll_cddocs/_posts/Classical/images/LSEditDist-Input1.png)

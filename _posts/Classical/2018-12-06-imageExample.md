@@ -16,4 +16,4 @@ permalink: Classical/imageExample
 ![这是第1张图片](./Classical/images/LSEditDist-Input1.png)
 
 ![My helpful screenshot]({{ site.url }}/assets/images/LSEditDist01.png "鼠标移到图标上会显示这些文字")
-![My helpful screenshot]({{ site.url }}/CDDemoDocs/assets/images/LSEditDist01.png "鼠标移到图标上会显示这些文字")
+![My helpful screenshot]({{ site.url }}/jekyll_cddocs/assets/images/LSEditDist01.png "鼠标移到图标上会显示这些文字")

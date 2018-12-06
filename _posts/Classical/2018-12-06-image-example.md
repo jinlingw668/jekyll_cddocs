@@ -1,5 +1,10 @@
 ---
 layout: default
+tags:
+  - CD Demo
+categories:
+  - Help
+permalink: Classical/image-example
 ---		
 
 ![这是第1张图片](https://raw.githubusercontent.com/jinlingw668/jekyll_cddocs/gh-pages/_posts/images/LSEditDist01.png)

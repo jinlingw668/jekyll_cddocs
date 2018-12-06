@@ -1,6 +1,8 @@
 ---
 layout: default
----		  
+---		
+
+- [图片显示示例](./Classical/image-example.html)  
 ### 经典算法
 - [洗牌算法](./Classical/Shuffle.html)
 - [EuclidGCD算法](./Classical/EuclidGCD.html)

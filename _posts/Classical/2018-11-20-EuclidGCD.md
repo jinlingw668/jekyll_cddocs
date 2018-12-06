@@ -15,14 +15,14 @@ categories:
 
 - gcd(a,b) = gcd(b,a mod b)； 
 
-![这是第1张图片](https://raw.githubusercontent.com/jinlingw668/jekyll_cddocs/gh-pages/_posts/images/LSEditDist01.png)
+![这是第11张图片](https://raw.githubusercontent.com/jinlingw668/jekyll_cddocs/gh-pages/_posts/images/LSEditDist01.png)
 
-![这是第2张图片](https://raw.githubusercontent.com/jinlingw668/jekyll_cddocs/gh-pages/_posts/Classical/images/LSEditDist-Input1.png)
+![这是第12张图片](https://raw.githubusercontent.com/jinlingw668/jekyll_cddocs/gh-pages/_posts/Classical/images/LSEditDist-Input1.png)
 
-![这是第1张图片](../images/LSEditDist01.png)
+![这是第13张图片](../images/LSEditDist01.png)
 
-![这是第2张图片](/images/LSEditDist01.png)
+![这是第14张图片](/images/LSEditDist01.png)
 
-![这是第1张图片](https://jinlingw668.github.io/jekyll_cddocs/_posts/images/LSEditDist01.png)
+![这是第15张图片](https://jinlingw668.github.io/jekyll_cddocs/_posts/images/LSEditDist01.png)
 
-![这是第2张图片](https://jinlingw668.github.io/jekyll_cddocs/_posts/Classical/images/LSEditDist-Input1.png)
+![这是第16张图片](https://jinlingw668.github.io/jekyll_cddocs/_posts/Classical/images/LSEditDist-Input1.png)

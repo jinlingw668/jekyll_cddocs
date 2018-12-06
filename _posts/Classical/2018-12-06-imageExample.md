@@ -4,7 +4,7 @@ tags:
   - CD Demo
 categories:
   - Help
-permalink: Classical/imageExample
+permalink: _posts/Classical/imageExample
 ---		
 
 ![这是第1张图片](https://raw.githubusercontent.com/jinlingw668/jekyll_cddocs/gh-pages/_posts/Classical/images/LSEditDist01.png)

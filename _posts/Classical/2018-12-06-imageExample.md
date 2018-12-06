@@ -21,4 +21,9 @@ permalink: _posts/Classical/imageExample
 
 ![这是第7张图片](../images/LSEditDist01.png)
 
+![这是第8张图片]({{ site.url }}/jekyll_cddocs/Classical/images/LSEditDist01.png)
+
 ![My helpful screenshot]({{ site.url }}/jekyll_cddocs/assets/images/LSEditDist01.png "鼠标移到图标上会显示这些文字")
+
+
+

@@ -9,13 +9,13 @@ permalink: /Classical/imageExample
 
 ![这是第1张图片](https://raw.githubusercontent.com/jinlingw668/jekyll_cddocs/gh-pages/_posts/Classical/images/LSEditDist01.png)
 
-![这是第2张图片]({{baseurl}}/_posts/Classical/images/LSEditDist02.png)
+
 
 ![这是第2张图片]({{baseurl}}/assets/images/Classical/images/LSEditDist02.png)
 
 ![这是第2张图片]({{baseurl}}/jekyll_cddocs/assets/images/Classical/images/LSEditDist02.png)
 
-[这是第2张图片](./jekyll_cddocs/gh-pages/_posts/Classical/images/LSEditDist02.png)
+
 
 ![这是第3张图片](./jekyll_cddocs/_posts/Classical/images/LSEditDist03.png)
 

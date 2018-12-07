@@ -4,7 +4,7 @@ show_title: true
 show_downloads: true
 google_analytics:
 
-url: https://riverwalter.github.io
+#url: https://riverwalter.github.io
 #baseurl: /jekyll_cddocs
 #theme: jekyll-theme-slate
 permalink: /:categories/:title/

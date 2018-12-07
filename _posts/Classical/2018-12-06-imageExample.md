@@ -11,9 +11,11 @@ permalink: /Classical/imageExample
 
 
 
-![这是第2张图片](/assets/images/Classical/images/LSEditDist02.png)
+![这是第2张图片](/imagesCD/Classical/images/LSEditDist02.png)
 
-![这是第2张图片](/jekyll_cddocs/assets/images/Classical/images/LSEditDist02.png)
+![这是第2张图片](/jekyll_cddocs/imagesCD/Classical/images/LSEditDist02.png)
+
+![这是第20张图片](/assets/images/LSEditDist02.png)
 
 ![这是第21张图片](/assets/images/LSEditDist02.png)
 

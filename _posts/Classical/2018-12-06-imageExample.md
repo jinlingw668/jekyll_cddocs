@@ -10,7 +10,6 @@ permalink: /Classical/imageExample
 ![这是第1张图片](https://raw.githubusercontent.com/jinlingw668/jekyll_cddocs/gh-pages/_posts/Classical/images/LSEditDist01.png)
 
 
-
 ![这是第2张图片](/imagesCD/Classical/images/LSEditDist02.png)
 
 ![这是第2张图片](/jekyll_cddocs/imagesCD/Classical/images/LSEditDist02.png)
@@ -21,6 +20,9 @@ permalink: /Classical/imageExample
 
 ![这是第21张图片](/jekyll_cddocs/assets/images/LSEditDist02.png)
 
+![这是第22张图片]({{ "/imagesCD/Classical/images/LSEditDist02.png" | absolute_url }})
+
+![这是第22张图片]({{ "/imagesCD/Classical/images/LSEditDist02.png"}})
 
 ![这是第3张图片](./jekyll_cddocs/_posts/Classical/images/LSEditDist03.png)
 

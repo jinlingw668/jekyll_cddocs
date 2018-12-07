@@ -4,7 +4,7 @@ show_title: true
 show_downloads: true
 google_analytics:
 
-baseurl: /jekyll_cddocs
+#baseurl: /jekyll_cddocs
 #theme: jekyll-theme-slate
 permalink: /:categories/:title/
 theme: jekyll-theme-leap-day
